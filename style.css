@@ -1,0 +1,11 @@
+body {
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+}
+.jumbotron{
+    background-image: url("test_tubes.jpg");
+    background-size: 100%;
+    background-blend-mode:soft-light;
+    text-align: center;
+    font-weight: bold;
+}
