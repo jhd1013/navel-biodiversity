@@ -5,7 +5,7 @@ body {
 .jumbotron{
     background-image: url("test_tubes.jpg");
     background-size: 100%;
-    background-blend-mode:soft-light;
+    background-blend-mode:overlay;
     text-align: center;
     font-weight: bold;
 }
